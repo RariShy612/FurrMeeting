@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774554297550",
+    "project_id": "furrmeeting",
+    "storage_bucket": "furrmeeting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774554297550:android:e14dc36ebf51c87d171c9f",
+        "android_client_info": {
+          "package_name": "com.example.furrmeeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774554297550-lhftk44mntn2r456lhdu2fsiuoem33kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl8Z6D_t6fzvWpGH-crJmuZoq3oy-9PHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774554297550-lhftk44mntn2r456lhdu2fsiuoem33kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
